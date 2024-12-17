@@ -23,3 +23,7 @@ let myFunction = function(){
 console.log(typeof myobj);//object
 console.log(typeof myFunction);//function 
 
+// memory type 
+//stack (primitive ) heap (non primitive )
+//in stack a copy is provided and in heap original reference is given
+ 
