@@ -9,3 +9,17 @@ let loggedIn = true
 // symbol => unique
 //object
 console.log(typeof null);    
+//primitive 
+//7 types string number boolean null undefined symbol BigInt 
+// non primitive 
+// object array functions 
+let myobj = {
+    name : "khushi" ,
+    age : 18
+}
+let myFunction = function(){
+    console.log("hello world ");
+}
+console.log(typeof myobj);//object
+console.log(typeof myFunction);//function 
+
